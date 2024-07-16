@@ -1,2 +1,3 @@
 # MoCityGame
-A simple combat system
+ 
+Independent Games 
