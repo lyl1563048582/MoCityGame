@@ -20,7 +20,9 @@ public class ReadWrite
     {
         XXXXXXXO,//”Œœ∑ID
        
+
         XOXOXOOO,//TODO
+
     }
 
     private SingletonDate<int> gameID = new SingletonDate<int>(DateKey.XXXXXXXO);
